@@ -1,5 +1,13 @@
 # Gitlab Sonarqube DevSecOps
 
+![](https://i.imgur.com/waxVImv.png)
+
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
+
 ## About
 This repository includes the script and file to enable running GitLab and SonarQube hosted locally using docker-compose.  
 It supports few possible scenarios for running the DevSecOps pipelines from on-demand runner only to fully operational GitLab Platform with SonarQube operational instance.  
@@ -38,13 +46,19 @@ By using docker we can enforce and maintain exactly identical execution environm
 4. Run the script scripts/exec-localy.sh 
 This script setup and run the pipeline via SonarQube 
 
-### [Contact an Author]
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
 
 
